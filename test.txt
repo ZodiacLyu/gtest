@@ -1,2 +1,3 @@
 this is a test
-[Branch]Trying to achieve Branch B
+[Branch]Trying to achieve Branch A
+[Cover]Tring to cover something
